@@ -2,10 +2,8 @@
 #coding: utf-8
 
 #----------------------------------------------------------
-
 #Made by: WizzzStark
 #Remember to change your attacker IP in request function.
-
 #-----------------------------------------------------------
 
 
