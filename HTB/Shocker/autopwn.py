@@ -19,9 +19,7 @@ from pwn import *
 
 
 ip_maquina='10.10.10.56'
-curl_port='1234'
 lport = 1234
-local_ip='10.10.15.122'
 
 
 def exit(sig, frame):
