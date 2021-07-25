@@ -1,9 +1,10 @@
 #!/usr/bin/python3
 #coding: utf-8
 
-
+#----------------------------------------------------------
 #Made by: WizzzStark
 #Error en la escalada de privilegios
+#-----------------------------------------------------------
 
 import requests
 import pdb
